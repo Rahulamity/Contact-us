@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rahulamity/contact-us/static/css/main.2d80ef0b.chunk.css",
+    "main.js": "/Rahulamity/contact-us/static/js/main.b5d140a9.chunk.js",
+    "main.js.map": "/Rahulamity/contact-us/static/js/main.b5d140a9.chunk.js.map",
+    "runtime-main.js": "/Rahulamity/contact-us/static/js/runtime-main.9ba0f1a2.js",
+    "runtime-main.js.map": "/Rahulamity/contact-us/static/js/runtime-main.9ba0f1a2.js.map",
+    "static/js/2.512f9735.chunk.js": "/Rahulamity/contact-us/static/js/2.512f9735.chunk.js",
+    "static/js/2.512f9735.chunk.js.map": "/Rahulamity/contact-us/static/js/2.512f9735.chunk.js.map",
+    "index.html": "/Rahulamity/contact-us/index.html",
+    "static/css/main.2d80ef0b.chunk.css.map": "/Rahulamity/contact-us/static/css/main.2d80ef0b.chunk.css.map",
+    "static/js/2.512f9735.chunk.js.LICENSE.txt": "/Rahulamity/contact-us/static/js/2.512f9735.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ba0f1a2.js",
+    "static/js/2.512f9735.chunk.js",
+    "static/css/main.2d80ef0b.chunk.css",
+    "static/js/main.b5d140a9.chunk.js"
+  ]
+}
